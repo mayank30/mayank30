@@ -3,6 +3,7 @@
 [![Created Badge](https://badges.pufler.dev/created/mayank30/mayank30)](https://restapi.store)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/JhawarMayank)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/mayankjhawar)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)](https://www.instagram.com/ma_ya_nk____)
 
 Hey there 👋
 
