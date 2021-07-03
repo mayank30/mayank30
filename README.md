@@ -93,14 +93,13 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 
 <br>
 
+
+
 ## 📣 Keep Motivate yourself - 
+<center>
 
-[![Mayank's GitHub Banner](./assets/Steve Jobs.jpg)](http://restapi.store/)
+[![Mayank's GitHub Banner](./assets/motivate01.png)](http://restapi.store/)
 
-> I'll be the Number Two guy here in Scranton in six weeks. How? Name repetition, personality mirroring, and never breaking off a handshake. I'm always thinking one step ahead. Like a carpenter that makes stairs.
->
-> <p>- Andy Bernard</p>
+[![Mayank's GitHub Banner](./assets/SteveJobs.jpg)](http://restapi.store/)
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
+</center>
