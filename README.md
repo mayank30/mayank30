@@ -5,46 +5,34 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://in.linkedin.com/in/mayankjhawar)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)](https://www.instagram.com/ma_ya_nk____)
 
-Hey there 👋
+### Hi there <a href="http://www.restapi.store"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I’m Mayank, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freelancer/mayank-jhawar)
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
-
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter, Go
-- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- ⚡ Fun fact: I :heart: :dog:s
-
-📕 **Latest Blog Posts**
+- 🔭 I’m working on something cool :wink:
+- 🌱 I’m passionate developer exploring new tech stack.
+- 💬 Ask me about anything related to Javascript/Typescript/Vue/Node/Express/.Net
+- ⚡ Fun fact: I :heart: coding :wink:
+<!-- 
+📕 **Latest Blog Posts** -->
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+<!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar) -->
 <!-- BLOG-POST-LIST:END -->
 
-📊 **This week I spent my time on**
+<!-- 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats.vercel.app/api?username=mayank30&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats.vercel.app/api?username=mayank30&hide_title=true&hide_border=true&langs_count=5) -->
 
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/mayank30/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-
-</details>
 
 
 <!-- <img alt='analytics' src='https://profile-counter.glitch.me/mayank30/count.svg' width='0px'> -->
-
-<br>
+<!-- 
+<br> -->
 
 <!-- ## 📌 Pinned Repositories
 
@@ -63,10 +51,21 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://github.com/braydoncoyer/officeapi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
+<!-- 
+<br>
+<br> -->
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/mayank30/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
 
 <br>
 <br>
-
 ## &#x1f4c8; GitHub Stats
 
 <br>
