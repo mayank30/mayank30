@@ -15,46 +15,9 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 - 🌱 I’m passionate developer exploring new tech stack.
 - 💬 Ask me about anything related to Javascript/Typescript/Vue/Node/Express/.Net
 - ⚡ Fun fact: I :heart: coding :wink:
-<!-- 
-📕 **Latest Blog Posts** -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar) -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- 📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats.vercel.app/api?username=mayank30&hide_title=true&hide_border=true&langs_count=5) -->
-
-
-
-<!-- <img alt='analytics' src='https://profile-counter.glitch.me/mayank30/count.svg' width='0px'> -->
-<!-- 
-<br> -->
-
-<!-- ## 📌 Pinned Repositories
-
-<br> -->
-
-<!-- <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a> -->
-<!-- 
-<br>
-<br> -->
-
+  <a href='https://profile.codersrank.io/user/mayank30/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
