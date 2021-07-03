@@ -15,19 +15,11 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 - 🌱 I’m passionate developer exploring new tech stack.
 - 💬 Ask me about anything related to Javascript/Typescript/Vue/Node/Express/.Net
 - ⚡ Fun fact: I :heart: coding :wink:
-  <a href='https://profile.codersrank.io/user/mayank30/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
-<details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/mayank30/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
 
-</details>
+<a href='https://profile.codersrank.io/user/mayank30/'>
+<img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=mayank30&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+</a>
 
-<br>
 <br>
 ## &#x1f4c8; GitHub Stats
 
@@ -46,9 +38,10 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/5.5yrs-VueJS-informational?style=flat&logo=vue&logoColor=white&color=green)
+![](https://img.shields.io/badge/4.5yrs-Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=blue)
+![](https://img.shields.io/badge/2yrs-Ionic/Cordova-informational?style=flat&logo=cordova&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/8+yrs-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
