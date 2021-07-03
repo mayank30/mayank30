@@ -7,7 +7,7 @@
 
 ### Hi there <a href="http://www.restapi.store"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I’m Mayank, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Mayank, a senior UI Architect having 10+ years of experience in Information Technology, I myself a creative coder who specializes in front-end development, also good at writing API's in Node JS using express JS. I am more specialzied in UI development, my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freelancer/mayank-jhawar)
 
