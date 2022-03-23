@@ -40,6 +40,7 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 
 ![](https://img.shields.io/badge/5.5yrs-VueJS-informational?style=flat&logo=vue&logoColor=white&color=green)
 ![](https://img.shields.io/badge/4.5yrs-Vuetify-informational?style=flat&logo=Vuetify&logoColor=white&color=blue)
+![](https://img.shields.io/badge/1yrs-tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/2yrs-Ionic/Cordova-informational?style=flat&logo=cordova&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/8+yrs-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vuex-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
@@ -91,15 +92,3 @@ Want to know more about me? [Check out my Resume.](https://2.flexiple.com/freela
 
 </details>
 
-<br>
-
-
-
-## 📣 Keep Motivate yourself - 
-<center>
-
-[![Mayank's GitHub Banner](./assets/motivate01.png)](http://restapi.store/)
-
-[![Mayank's GitHub Banner](./assets/SteveJobs.jpg)](http://restapi.store/)
-
-</center>
